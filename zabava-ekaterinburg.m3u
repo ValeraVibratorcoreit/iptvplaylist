@@ -1,82 +1,58 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТНВ Планета (Екатеринбург)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ZLATTV/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="tnv-planeta",ТНВ Планета (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТНВ Планета (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="pervy-pl2",Первый (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Первый (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="rossia1-pl2",Россия 1 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Россия 1 (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="match-tv",Матч ТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Матч ТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MATCHTV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="ntv-pl2",НТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,НТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="5kanal-ru-pl2",Пятый (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Пятый (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_5TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="kultura-pl2",Россия К (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Россия К (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK_URAL_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="rossia-24",Россия 24 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Россия 24 (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="karusel-pl2",Карусель (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Карусель (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="otr-pl2",ОТР (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ОТР (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="tvcentr-pl2",ТВ Центр (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТВ Центр (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="rentv-pl2",РЕН ТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,РЕН ТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="spas-pl2",Спас (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Спас (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="sts-pl2",СТС (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,СТС (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="domashny-pl2",Домашний (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Домашний (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="tv3-ru-pl2",ТВ-3 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТВ-3 (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="piatnica-pl2",Пятница! (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Пятница! (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_FRIDAY_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="zvezda-pl2",Звезда (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Звезда (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="mir-pl2",МИР (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,МИР (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="tnt-pl2",ТНТ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТНТ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="muztv-pl2",МУЗ-ТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,МУЗ-ТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="tnt4",ТНТ4 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ТНТ4 (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="otv-eburg",ОТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ОТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="telekon24-nt",Телекон 24 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,Телекон 24 (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="otv-eburg",ОТВ (Екатеринбург)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 ,ОТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="4kanal-piatnica",Четвёртый канал (Екатеринбург)
+#EXTINF:-1 ,Четвёртый канал (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 
 #EXTINF:-1 , Победа
 http://46.8.46.14/Pobeda/index.m3u8
@@ -91,8 +67,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://188.190.222.53/Match_Futbol_2/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" , Дом кино
-
-
 http://46.8.46.14/domkino/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" , Дом кино Премиум HD
@@ -183,8 +157,6 @@ http://188.190.222.53/CTC_Love/index.m3u8
 http://185.46.16.239:8000/TNT
 
 #EXTINF:-1 tvg-id="che" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Че! (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-# URL for Че! (Архив) is missing, please add it here.
 
 #EXTINF:-1 , Discovery HD
 http://195.64.140.147:10151/151
@@ -216,11 +188,10 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat_explore/chunks.m3u8
 #EXTINF:-1 , viju+ Planet HD
 http://195.64.140.147:10147/147
 
-#EXTINF:-1 , Unknown Channel
+#EXTINF:-1 , RBC TV HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 , Россия 24
-# URL for Россия 24 is missing, please add it here.
 
 #EXTINF:-1 , Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
